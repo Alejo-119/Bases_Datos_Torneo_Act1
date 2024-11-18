@@ -1,0 +1,134 @@
+[{
+  "_id": {
+    "$oid": "673a6e85a0bc216c39ece65e"
+  },
+  "id_encuentro_Fase_Grupos": {
+    "$oid": "673a391ad3ab36c5a74c5830"
+  },
+  "resultados_equipos": [
+    {
+      "id_team_1": {
+        "$oid": "673a6a8aa0bc216c39ece657"
+      },
+      "Bajas": 5,
+      "Muertes": 2,
+      "Asistencias": 3
+    },
+    {
+      "id_team_2": {
+        "$oid": "673a6a8aa0bc216c39ece658"
+      },
+      "Bajas": 3,
+      "Muertes": 1,
+      "Asistencias": 2
+    },
+    {
+      "id_team_3": {
+        "$oid": "673a6a8aa0bc216c39ece659"
+      },
+      "Bajas": 3,
+      "Muertes": 2,
+      "Asistencias": 2
+    },
+    {
+      "id_team_4": {
+        "$oid": "673a6a8aa0bc216c39ece65a"
+      },
+      "Bajas": 1,
+      "Muertes": 9,
+      "Asistencias": 0
+    },
+    {
+      "id_team_5": {
+        "$oid": "673a6a8aa0bc216c39ece65b"
+      },
+      "Bajas": 6,
+      "Muertes": 5,
+      "Asistencias": 6
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a6faba0bc216c39ece660"
+  },
+  "id_encuentro_Semifinal_A": {
+    "$oid": "673a59a4d3ab36c5a74c5841"
+  },
+  "resultados_equipos": [
+    {
+      "id_team_1": {
+        "$oid": "673a6a8aa0bc216c39ece657"
+      },
+      "Bajas": 2,
+      "Muertes": 7,
+      "Asistencias": 1
+    },
+    {
+      "id_team_3": {
+        "$oid": "673a6a8aa0bc216c39ece659"
+      },
+      "Bajas": 7,
+      "Muertes": 2,
+      "Asistencias": 3
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a7038a0bc216c39ece663"
+  },
+  "id_encuentro_Semifinal_B": {
+    "$oid": "673a59a4d3ab36c5a74c5842"
+  },
+  "resultados_equipos": [
+    {
+      "id_team_2": {
+        "$oid": "673a6a8aa0bc216c39ece658"
+      },
+      "Bajas": 8,
+      "Muertes": 3,
+      "Asistencias": 2
+    },
+    {
+      "id_team_5": {
+        "$oid": "673a6a8aa0bc216c39ece65b"
+      },
+      "Bajas": 3,
+      "Muertes": 8,
+      "Asistencias": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a7168a0bc216c39ece665"
+  },
+  "id_encuentro_Final": {
+    "$oid": "673a59a4d3ab36c5a74c5843"
+  },
+  "resultados_equipos": [
+    {
+      "id_team_2": {
+        "$oid": "673a6a8aa0bc216c39ece658"
+      },
+      "Bajas": 16,
+      "Muertes": 15,
+      "Asistencias": 10
+    },
+    {
+      "id_team_3": {
+        "$oid": "673a6a8aa0bc216c39ece659"
+      },
+      "Bajas": 15,
+      "Muertes": 16,
+      "Asistencias": 10
+    }
+  ],
+  "team_Ganador": {
+    "id_team": {
+      "$oid": "673a6a8aa0bc216c39ece658"
+    },
+    "Team": 2
+  }
+}]

@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "673a6a8aa0bc216c39ece657"
+  },
+  "id_team": 1,
+  "id_deportista": [
+    {
+      "$oid": "673a2b68d3ab36c5a74c5811"
+    },
+    {
+      "$oid": "673a2b68d3ab36c5a74c5812"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a6a8aa0bc216c39ece658"
+  },
+  "id_team": 2,
+  "id_deportista": [
+    {
+      "$oid": "673a2b68d3ab36c5a74c5813"
+    },
+    {
+      "$oid": "673a2b68d3ab36c5a74c5814"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a6a8aa0bc216c39ece659"
+  },
+  "id_team": 3,
+  "id_deportista": [
+    {
+      "$oid": "673a2b68d3ab36c5a74c5815"
+    },
+    {
+      "$oid": "673a2b68d3ab36c5a74c5816"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a6a8aa0bc216c39ece65a"
+  },
+  "id_team": 4,
+  "id_deportista": [
+    {
+      "$oid": "673a2b68d3ab36c5a74c5817"
+    },
+    {
+      "$oid": "673a2b68d3ab36c5a74c5818"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a6a8aa0bc216c39ece65b"
+  },
+  "id_team": 5,
+  "id_deportista": [
+    {
+      "$oid": "673a2b68d3ab36c5a74c5819"
+    },
+    {
+      "$oid": "673a2b68d3ab36c5a74c581a"
+    }
+  ]
+}]

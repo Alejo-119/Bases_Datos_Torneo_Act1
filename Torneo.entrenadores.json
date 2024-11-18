@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "673a2d42d3ab36c5a74c5820"
+  },
+  "id_entrenador": 1,
+  "nomb_entrenador": "Julio Jaramillo",
+  "edad": 28,
+  "Nacionalidad": "Argentina",
+  "Torneos_Ganados": 2,
+  "id_team": 1,
+  "deportista_a_cargo": [
+    {
+      "$oid": "673a2b68d3ab36c5a74c5811"
+    },
+    {
+      "$oid": "673a2b68d3ab36c5a74c5812"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a2d42d3ab36c5a74c5821"
+  },
+  "id_entrenador": 2,
+  "nomb_entrenador": "Cristian Soto",
+  "edad": 33,
+  "Nacionalidad": "Colombia",
+  "Torneos_Ganados": 4,
+  "id_team": 2,
+  "deportista_a_cargo": [
+    {
+      "$oid": "673a2b68d3ab36c5a74c5813"
+    },
+    {
+      "$oid": "673a2b68d3ab36c5a74c5814"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a2d42d3ab36c5a74c5822"
+  },
+  "id_entrenador": 3,
+  "nomb_entrenador": "Mauricio Bedoya",
+  "edad": 25,
+  "Nacionalidad": "Colombia",
+  "Torneos_Ganados": 2,
+  "id_team": 3,
+  "deportista_a_cargo": [
+    {
+      "$oid": "673a2b68d3ab36c5a74c5816"
+    },
+    {
+      "$oid": "673a2b68d3ab36c5a74c5815"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a2d42d3ab36c5a74c5823"
+  },
+  "id_entrenador": 4,
+  "nomb_entrenador": "Shinkotu Kotamaru",
+  "edad": 26,
+  "Nacionalidad": "Japón",
+  "Torneos_Ganados": 5,
+  "id_team": 4,
+  "deportista_a_cargo": [
+    {
+      "$oid": "673a2b68d3ab36c5a74c5818"
+    },
+    {
+      "$oid": "673a2b68d3ab36c5a74c5817"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a2d42d3ab36c5a74c5824"
+  },
+  "id_entrenador": 5,
+  "nomb_entrenador": "Arturo Calle",
+  "edad": 22,
+  "Nacionalidad": "Ecuador",
+  "Torneos_Ganados": 3,
+  "id_team": 5,
+  "deportista_a_cargo": [
+    {
+      "$oid": "673a2b68d3ab36c5a74c5819"
+    },
+    {
+      "$oid": "673a2b68d3ab36c5a74c581a"
+    }
+  ]
+}]

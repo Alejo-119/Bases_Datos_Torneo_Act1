@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "673a2b68d3ab36c5a74c5811"
+  },
+  "nomb_deportista:": "samuel Gonzalez",
+  "edad": 16,
+  "apodo": "Arroz Chino",
+  "Nacionalidad": "Colombia",
+  "id_team": 1
+},
+{
+  "_id": {
+    "$oid": "673a2b68d3ab36c5a74c5812"
+  },
+  "nomb_deportista": "Gabriel Sanchez",
+  "edad": 17,
+  "apodo": "Arroz con Leche",
+  "Nacionalidad": "Venezuela",
+  "id_team": 1
+},
+{
+  "_id": {
+    "$oid": "673a2b68d3ab36c5a74c5813"
+  },
+  "nomb_deportista": "Paola Medina",
+  "edad": 20,
+  "apodo": "Triada Asesina",
+  "Nacionalidad": "Perú",
+  "id_team": 2
+},
+{
+  "_id": {
+    "$oid": "673a2b68d3ab36c5a74c5814"
+  },
+  "nomb_deportista": "Alejandro Salgado",
+  "edad": 24,
+  "apodo": "Yanqui119",
+  "Nacionalidad": "Colombia",
+  "id_team": 2
+},
+{
+  "_id": {
+    "$oid": "673a2b68d3ab36c5a74c5815"
+  },
+  "nomb_deportista": "Daniel García",
+  "edad": 22,
+  "apodo": "Tiro Fijo",
+  "Nacionalidad": "Ecuador",
+  "id_team": 3
+},
+{
+  "_id": {
+    "$oid": "673a2b68d3ab36c5a74c5816"
+  },
+  "nomb_deportista": "Juan Camilo de los Rios",
+  "edad": 17,
+  "apodo": "Salvaje",
+  "Nacionalidad": "Colombia",
+  "id_team": 3
+},
+{
+  "_id": {
+    "$oid": "673a2b68d3ab36c5a74c5817"
+  },
+  "nomb_deportista": "Camilo Molano",
+  "edad": 22,
+  "apodo": "Araña Silvestre",
+  "Nacionalidad": "Perú",
+  "id_team": 4
+},
+{
+  "_id": {
+    "$oid": "673a2b68d3ab36c5a74c5818"
+  },
+  "nomb_deportista": "Santiago Bejarano",
+  "edad": 19,
+  "apodo": "La Octava Maravilla",
+  "Nacionalidad": "Colombia",
+  "id_team": 4
+},
+{
+  "_id": {
+    "$oid": "673a2b68d3ab36c5a74c5819"
+  },
+  "nomb_deportista": "Samuel Torres",
+  "edad": 24,
+  "apodo": "Samu",
+  "Nacionalidad": "Colombia",
+  "id_team": 5
+},
+{
+  "_id": {
+    "$oid": "673a2b68d3ab36c5a74c581a"
+  },
+  "nomb_deportista": "Mariana Salazar",
+  "edad": 23,
+  "apodo": "Gatubela",
+  "Nacionalidad": "Ecuador",
+  "id_team": 5
+}]

@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "673a391ad3ab36c5a74c582e"
+  },
+  "nomb_arbitro": "Julio Pérez",
+  "edad": 37,
+  "id_arbitro": 1
+},
+{
+  "_id": {
+    "$oid": "673a391ad3ab36c5a74c582f"
+  },
+  "nomb_arbitro": "Carlos Villegas",
+  "edad": 28,
+  "id_arbitro": 2
+},
+{
+  "_id": {
+    "$oid": "673a391ad3ab36c5a74c5830"
+  },
+  "nomb_arbitro": "Fernando Muñoz",
+  "edad": 33,
+  "id_arbitro": 3
+}]

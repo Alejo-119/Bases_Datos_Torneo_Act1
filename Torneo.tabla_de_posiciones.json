@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "673a761aa0bc216c39ece668"
+  },
+  "id_encuentro_Fase_de_Grupos": {
+    "$oid": "673a391ad3ab36c5a74c5830"
+  },
+  "equipos_a_participar": [
+    {
+      "team_1": {
+        "$oid": "673a6a8aa0bc216c39ece657"
+      }
+    },
+    {
+      "team_2": {
+        "$oid": "673a6a8aa0bc216c39ece658"
+      }
+    },
+    {
+      "team_3": {
+        "$oid": "673a6a8aa0bc216c39ece659"
+      }
+    },
+    {
+      "team_4": {
+        "$oid": "673a6a8aa0bc216c39ece65a"
+      }
+    },
+    {
+      "team_5": {
+        "$oid": "673a6a8aa0bc216c39ece65b"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a7681a0bc216c39ece66a"
+  },
+  "id_encuentro_Semifinal_A": {
+    "$oid": "673a59a4d3ab36c5a74c5841"
+  },
+  "equipos_a_participar": [
+    {
+      "team_1": {
+        "$oid": "673a6a8aa0bc216c39ece657"
+      }
+    },
+    {
+      "team_3": {
+        "$oid": "673a6a8aa0bc216c39ece659"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a76c3a0bc216c39ece66c"
+  },
+  "id_encuentro_Semifinal_B": {
+    "$oid": "673a59a4d3ab36c5a74c5842"
+  },
+  "equipos_a_participar": [
+    {
+      "team_2": {
+        "$oid": "673a6a8aa0bc216c39ece658"
+      }
+    },
+    {
+      "team_5": {
+        "$oid": "673a6a8aa0bc216c39ece65b"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a7700a0bc216c39ece66f"
+  },
+  "id_encuentro_Final": {
+    "$oid": "673a59a4d3ab36c5a74c5843"
+  },
+  "equipos_a_participar": [
+    {
+      "team_2": {
+        "$oid": "673a6a8aa0bc216c39ece658"
+      }
+    },
+    {
+      "team_3": {
+        "$oid": "673a6a8aa0bc216c39ece659"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673a77aaa0bc216c39ece672"
+  },
+  "equipo_Campeón": {
+    "team_2": {
+      "$oid": "673a6a8aa0bc216c39ece658"
+    }
+  }
+}]

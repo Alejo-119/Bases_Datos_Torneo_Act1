@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "673a59a4d3ab36c5a74c5840"
+  },
+  "tipo_encuentro": "Fase de Grupos",
+  "arbitro": {
+    "$oid": "673a391ad3ab36c5a74c582e"
+  },
+  "fecha": "25-nov-2024",
+  "team_eliminado": 4
+},
+{
+  "_id": {
+    "$oid": "673a59a4d3ab36c5a74c5841"
+  },
+  "tipo_encuentro": "Semifinal_A",
+  "arbitro": {
+    "$oid": "673a391ad3ab36c5a74c582f"
+  },
+  "fecha": "27-nov-2024",
+  "team_eliminado": 1
+},
+{
+  "_id": {
+    "$oid": "673a59a4d3ab36c5a74c5842"
+  },
+  "tipo_encuentro": "Semifinal_B",
+  "arbitro": {
+    "$oid": "673a391ad3ab36c5a74c582e"
+  },
+  "fecha": "27-nov-2024",
+  "team_eliminado": 5
+},
+{
+  "_id": {
+    "$oid": "673a59a4d3ab36c5a74c5843"
+  },
+  "tipo_encuentro": "Final",
+  "arbitro": {
+    "$oid": "673a391ad3ab36c5a74c5830"
+  },
+  "fecha": "30-nov-2024",
+  "team_eliminado": 3
+}]
